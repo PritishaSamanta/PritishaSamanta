@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PritishaSamanta
+- 👀 I’m interested in FE development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on FE projects
+- 📫 How to reach me samantapritisha4@gmail.com
